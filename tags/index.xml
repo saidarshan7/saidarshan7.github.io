@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sai d.</title>
-    <link>sdarshn.dev/tags/</link>
+    <link>https://saidarshan7.github.io/tags/</link>
     <description>Recent content in Tags on Sai d.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Sat, 18 Oct 2025 18:50:45 +0530</lastBuildDate>
-    <atom:link href="sdarshn.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://saidarshan7.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning</title>
-      <link>sdarshn.dev/tags/learning/</link>
+      <link>https://saidarshan7.github.io/tags/learning/</link>
       <pubDate>Sat, 18 Oct 2025 18:50:45 +0530</pubDate>
-      <guid>sdarshn.dev/tags/learning/</guid>
+      <guid>https://saidarshan7.github.io/tags/learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Space</title>
-      <link>sdarshn.dev/tags/space/</link>
+      <link>https://saidarshan7.github.io/tags/space/</link>
       <pubDate>Fri, 17 Oct 2025 01:12:18 +0530</pubDate>
-      <guid>sdarshn.dev/tags/space/</guid>
+      <guid>https://saidarshan7.github.io/tags/space/</guid>
       <description></description>
     </item>
   </channel>
