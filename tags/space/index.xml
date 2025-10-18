@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Space on Sai d.</title>
+    <link>sdarshn.dev/tags/space/</link>
+    <description>Recent content in Space on Sai d.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Fri, 17 Oct 2025 01:12:18 +0530</lastBuildDate>
+    <atom:link href="sdarshn.dev/tags/space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I born to do something great</title>
+      <link>sdarshn.dev/posts/post-2/</link>
+      <pubDate>Fri, 17 Oct 2025 01:12:18 +0530</pubDate>
+      <guid>sdarshn.dev/posts/post-2/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

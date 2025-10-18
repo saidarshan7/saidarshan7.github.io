@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning on Sai d.</title>
+    <link>sdarshn.dev/tags/learning/</link>
+    <description>Recent content in Learning on Sai d.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Sat, 18 Oct 2025 18:50:45 +0530</lastBuildDate>
+    <atom:link href="sdarshn.dev/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How do i learn something new ?</title>
+      <link>sdarshn.dev/posts/post-3/</link>
+      <pubDate>Sat, 18 Oct 2025 18:50:45 +0530</pubDate>
+      <guid>sdarshn.dev/posts/post-3/</guid>
+      <description>Steps Mindset First of all keep in mind that Everything is Simple then it Looks. Tell your mind that &amp;quot; it&amp;rsquo;s probably simple let me see what it actually is&amp;quot; It is not hard it is just new Step 1 When you see a concept ask yourself: what really happening here if i ignore all the fancy words ? meaning get an high level overview of concept ? example: what is machine learning ?</description>
+    </item>
+  </channel>
+</rss>
