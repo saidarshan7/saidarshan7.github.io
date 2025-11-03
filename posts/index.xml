@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Fri, 31 Oct 2025 10:20:03 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 18:28:36 +0530</lastBuildDate>
     <atom:link href="https://saidarshan7.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, World</title>
       <link>https://saidarshan7.github.io/posts/post-6/</link>
-      <pubDate>Fri, 31 Oct 2025 10:20:03 +0530</pubDate>
+      <pubDate>Mon, 03 Nov 2025 18:28:36 +0530</pubDate>
       <guid>https://saidarshan7.github.io/posts/post-6/</guid>
-      <description>console.log(&amp;ldquo;Hello, World!!!&amp;rdquo;) //Javascript&#xA;print(&amp;ldquo;Hello, World&amp;rdquo;) //Python</description>
+      <description>console.log(&amp;quot;Hello, World!!!&amp;quot;) //Javascript&#xA;print(&amp;quot;Hello, World&amp;quot;) //Python</description>
     </item>
     <item>
       <title>Some hacks which i follow to stay focused for long hours</title>
