@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trash on Sai d.</title>
+    <link>https://saidarshan7.github.io/tags/trash/</link>
+    <description>Recent content in Trash on Sai d.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Fri, 31 Oct 2025 10:20:03 +0530</lastBuildDate>
+    <atom:link href="https://saidarshan7.github.io/tags/trash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, World</title>
+      <link>https://saidarshan7.github.io/posts/post-6/</link>
+      <pubDate>Fri, 31 Oct 2025 10:20:03 +0530</pubDate>
+      <guid>https://saidarshan7.github.io/posts/post-6/</guid>
+      <description>console.log(&amp;ldquo;Hello, World!!!&amp;rdquo;) //Javascript&#xA;print(&amp;ldquo;Hello, World&amp;rdquo;) //Python</description>
+    </item>
+  </channel>
+</rss>
